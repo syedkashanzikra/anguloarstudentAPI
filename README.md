@@ -75,13 +75,7 @@ private apiUrl = 'https://localhost:5001/api/student';
 - **Add Student**: Fill out the form with the student's name and email, then click "Create Student" to add a new student.
 - **Delete Student**: Use the delete button next to each student's name to remove them from the system.
 
-## Example Screenshots
 
-### Add Student Form
-![Add Student Form](screenshot-add.png)
-
-### Student List
-![Student List](screenshot-list.png)
 
 ## License
 
